@@ -1,2 +1,2 @@
 # Sorting
-# insertion sort
+Bubble,Insertion,Selection,Quick sort
